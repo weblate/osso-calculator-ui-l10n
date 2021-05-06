@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Kalkylator"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Det går inte att dela med noll"
+
+msgid "calc_ap_input_illegal"
+msgstr "Ogiltig inmatning"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Cache redan rensad"
+
+msgid "calc_ap_large_no_result"
+msgstr "Ingen beräkning att visa"
+
+msgid "calc_ap_large_power"
+msgstr "Maximal upphöjning är 1 000"
+
+msgid "calc_ap_memory"
+msgstr "Minnet = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Minnet tomt"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Ingenting att rensa"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Endast siffror kan klistras in."
+
+msgid "calc_ap_result_toolarge"
+msgstr "Resultatet för stort att visa"
+
+msgid "calc_ap_square_neg"
+msgstr "Det går inte att beräkna kvadratroten ur ett negativt nummer"
+
+msgid "calc_ap_title_calculator"
+msgstr "Kalkylator"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Fel"
+
+msgid "calc_ib_only12"
+msgstr "Det går inte att klistra in fler än 12 siffror"
+
+msgid "calc_ib_unable_copy"
+msgstr "Det gick inte att kopiera"
+
+msgid "calc_ib_unable_paste"
+msgstr "Det gick inte att klistra in"
+
+msgid "calc_ib_unable_select"
+msgstr "Det gick inte att välja"
+
+msgid "calc_me_basic"
+msgstr "Standard"
+
+msgid "calc_me_calc_cont"
+msgstr "Beräkningsrad"
+
+msgid "calc_me_clear_cache"
+msgstr "Rensa cache för senaste beräkning"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Rensa kassarullen"
+
+msgid "calc_me_close"
+msgstr "Stäng"
+
+msgid "calc_me_copy"
+msgstr "Kopiera"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Lägg till i minnet (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Rensa minnet"
+
+msgid "calc_me_dmem_recall"
+msgstr "Hämta från minnet (M-)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Spara i minnet (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Subtrahera från minnet (M-)"
+
+msgid "calc_me_edit"
+msgstr "Redigera"
+
+msgid "calc_me_help"
+msgstr "Hjälp"
+
+msgid "calc_me_memory"
+msgstr "Minne"
+
+msgid "calc_me_paste"
+msgstr "Klistra in"
+
+msgid "calc_me_roll_cont"
+msgstr "Kassarullens innehåll"
+
+msgid "calc_me_scientific"
+msgstr "Avancerad"
+
+msgid "calc_me_select"
+msgstr "Välj"
+
+msgid "calc_me_show_last"
+msgstr "Visa senaste beräkning"
+
+msgid "calc_me_view"
+msgstr "Visa"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

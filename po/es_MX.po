@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Calculadora"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Imposible dividir entre cero"
+
+msgid "calc_ap_input_illegal"
+msgstr "Entrada ilegal"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Caché ya borrada"
+
+msgid "calc_ap_large_no_result"
+msgstr "Ningún cálculo que mostrar"
+
+msgid "calc_ap_large_power"
+msgstr "La potencia máxima es 1000"
+
+msgid "calc_ap_memory"
+msgstr "Memoria = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Memoria vacía"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Nada que borrar"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Sólo se pueden pegar números"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Resultado demasiado largo para mostrar en pantalla"
+
+msgid "calc_ap_square_neg"
+msgstr "Imposible calcular la raíz cuadrada de un número negativo"
+
+msgid "calc_ap_title_calculator"
+msgstr "Calculadora"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Error"
+
+msgid "calc_ib_only12"
+msgstr "Imposible pegar más de 12 dígitos"
+
+msgid "calc_ib_unable_copy"
+msgstr "Imposible copiar"
+
+msgid "calc_ib_unable_paste"
+msgstr "Imposible pegar"
+
+msgid "calc_ib_unable_select"
+msgstr "Imposible seleccionar"
+
+msgid "calc_me_basic"
+msgstr "Básica"
+
+msgid "calc_me_calc_cont"
+msgstr "Línea de cálculo"
+
+msgid "calc_me_clear_cache"
+msgstr "Borrar caché del último cálculo"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Borrar lista de operaciones"
+
+msgid "calc_me_close"
+msgstr "Cerrar"
+
+msgid "calc_me_copy"
+msgstr "Copiar"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Agregar a memoria (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Borrar memoria"
+
+msgid "calc_me_dmem_recall"
+msgstr "Recuperar de memoria (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Guardar en memoria (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Restar de memoria (M-)"
+
+msgid "calc_me_edit"
+msgstr "Editar"
+
+msgid "calc_me_help"
+msgstr "Ayuda"
+
+msgid "calc_me_memory"
+msgstr "Memoria"
+
+msgid "calc_me_paste"
+msgstr "Pegar"
+
+msgid "calc_me_roll_cont"
+msgstr "Contenido de relación de operaciones"
+
+msgid "calc_me_scientific"
+msgstr "Científica"
+
+msgid "calc_me_select"
+msgstr "Seleccionar"
+
+msgid "calc_me_show_last"
+msgstr "Mostrar último cálculo"
+
+msgid "calc_me_view"
+msgstr "Ver"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

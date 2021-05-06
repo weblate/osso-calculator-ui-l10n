@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "calc_ap_calculator"
+msgstr "Калькулятор"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Нельзя делить на ноль"
+
+msgid "calc_ap_input_illegal"
+msgstr "Недопустимый ввод"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Кэш уже очищен"
+
+msgid "calc_ap_large_no_result"
+msgstr "Нет расчетов"
+
+msgid "calc_ap_large_power"
+msgstr "Максимум показателя степени — 1000"
+
+msgid "calc_ap_memory"
+msgstr "Память = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Память пуста"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Нечего удалять"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Вставлять можно только числа"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Результат слишком велик для отображения"
+
+msgid "calc_ap_square_neg"
+msgstr "Нельзя извлекать квадратный корень из отрицательного числа"
+
+msgid "calc_ap_title_calculator"
+msgstr "Калькулятор"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Ошибка"
+
+msgid "calc_ib_only12"
+msgstr "Не удается вставить более 12 цифр"
+
+msgid "calc_ib_unable_copy"
+msgstr "Не удается скопировать"
+
+msgid "calc_ib_unable_paste"
+msgstr "Не удается вставить"
+
+msgid "calc_ib_unable_select"
+msgstr "Не удается выделить"
+
+msgid "calc_me_basic"
+msgstr "Базовый"
+
+msgid "calc_me_calc_cont"
+msgstr "Строку вычислений"
+
+msgid "calc_me_clear_cache"
+msgstr "Очистить кэш последних расчетов"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Очистить ленту"
+
+msgid "calc_me_close"
+msgstr "Закрыть"
+
+msgid "calc_me_copy"
+msgstr "Копировать"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Добавить в память (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Очистить память"
+
+msgid "calc_me_dmem_recall"
+msgstr "Вызвать из памяти (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Сохранить в памяти (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Вычесть из памяти (M-)"
+
+msgid "calc_me_edit"
+msgstr "Изменить"
+
+msgid "calc_me_help"
+msgstr "Справка"
+
+msgid "calc_me_memory"
+msgstr "Память"
+
+msgid "calc_me_paste"
+msgstr "Вставить"
+
+msgid "calc_me_roll_cont"
+msgstr "Содержимое ленты"
+
+msgid "calc_me_scientific"
+msgstr "Научный"
+
+msgid "calc_me_select"
+msgstr "Выделить"
+
+msgid "calc_me_show_last"
+msgstr "Показать последние расчеты"
+
+msgid "calc_me_view"
+msgstr "Вид"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

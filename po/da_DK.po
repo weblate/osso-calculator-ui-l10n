@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Regnemaskine"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Kan ikke dele med nul"
+
+msgid "calc_ap_input_illegal"
+msgstr "Ugyldig indtastning"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Cachen er allerede ryddet"
+
+msgid "calc_ap_large_no_result"
+msgstr "Ingen udregning at vise"
+
+msgid "calc_ap_large_power"
+msgstr "Maks. potens er 1000"
+
+msgid "calc_ap_memory"
+msgstr "Hukommelse = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Hukommelsen er tom"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Intet at rydde"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Kun tal kan indsættes"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Resultatet er for stort til at blive vist"
+
+msgid "calc_ap_square_neg"
+msgstr "Kan ikke udregne kvadratroden af et negativt tal"
+
+msgid "calc_ap_title_calculator"
+msgstr "Regnemaskine"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Fejl"
+
+msgid "calc_ib_only12"
+msgstr "Kan ikke indsætte mere end 12 cifre"
+
+msgid "calc_ib_unable_copy"
+msgstr "Kan ikke kopiere"
+
+msgid "calc_ib_unable_paste"
+msgstr "Kan ikke indsætte "
+
+msgid "calc_ib_unable_select"
+msgstr "Kan ikke vælges"
+
+msgid "calc_me_basic"
+msgstr "Grundlæggende"
+
+msgid "calc_me_calc_cont"
+msgstr "Udregningslinje"
+
+msgid "calc_me_clear_cache"
+msgstr "Ryd cache for sidste udregning"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Ryd udregningsfelt"
+
+msgid "calc_me_close"
+msgstr "Luk"
+
+msgid "calc_me_copy"
+msgstr "Kopiér"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Føj til hukommelsen (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Ryd hukommelsen"
+
+msgid "calc_me_dmem_recall"
+msgstr "Tilbagekald fra hukommelsen (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Gem i hukommelsen (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Træk fra hukommelsen (M-)"
+
+msgid "calc_me_edit"
+msgstr "Rediger"
+
+msgid "calc_me_help"
+msgstr "Hjælp"
+
+msgid "calc_me_memory"
+msgstr "Hukommelse"
+
+msgid "calc_me_paste"
+msgstr "Sæt ind"
+
+msgid "calc_me_roll_cont"
+msgstr "Indhold i udregningsfelt"
+
+msgid "calc_me_scientific"
+msgstr "Videnskabelig"
+
+msgid "calc_me_select"
+msgstr "Vælg"
+
+msgid "calc_me_show_last"
+msgstr "Vis sidste udregning"
+
+msgid "calc_me_view"
+msgstr "Vis"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

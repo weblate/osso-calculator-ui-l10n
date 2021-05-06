@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Laskin"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Nollalla ei voi jakaa"
+
+msgid "calc_ap_input_illegal"
+msgstr "Syöte ei kelpaa"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Välimuisti on jo tyhjä"
+
+msgid "calc_ap_large_no_result"
+msgstr "Ei näytettäviä laskutoimituksia"
+
+msgid "calc_ap_large_power"
+msgstr "Suurin potenssi on 1000"
+
+msgid "calc_ap_memory"
+msgstr "Muisti = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Muisti tyhjä"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Ei tyhjennettävää"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Vain numeroita voi liittää"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Tulos liian suuri näytettäväksi"
+
+msgid "calc_ap_square_neg"
+msgstr "Negatiivisen luvun neliöjuurta ei voi laskea"
+
+msgid "calc_ap_title_calculator"
+msgstr "Laskin"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Virhe"
+
+msgid "calc_ib_only12"
+msgstr "Enintään 12 numeroa voi liittää"
+
+msgid "calc_ib_unable_copy"
+msgstr "Ei voi kopioida"
+
+msgid "calc_ib_unable_paste"
+msgstr "Ei voi liittää"
+
+msgid "calc_ib_unable_select"
+msgstr "Ei voi valita"
+
+msgid "calc_me_basic"
+msgstr "Perus"
+
+msgid "calc_me_calc_cont"
+msgstr "Laskurivi"
+
+msgid "calc_me_clear_cache"
+msgstr "Poista ed. lasku välimuistista"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Tyhjennä laskimen näyttö"
+
+msgid "calc_me_close"
+msgstr "Sulje"
+
+msgid "calc_me_copy"
+msgstr "Kopioi"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Lisää muistiin (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Tyhjennä muisti"
+
+msgid "calc_me_dmem_recall"
+msgstr "Palauta muistista (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Tallenna muistiin (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Vähennä muistista (M-)"
+
+msgid "calc_me_edit"
+msgstr "Muokkaa"
+
+msgid "calc_me_help"
+msgstr "Ohje"
+
+msgid "calc_me_memory"
+msgstr "Muisti"
+
+msgid "calc_me_paste"
+msgstr "Liitä"
+
+msgid "calc_me_roll_cont"
+msgstr "Laskimen näytön sisältö"
+
+msgid "calc_me_scientific"
+msgstr "Tieteellinen"
+
+msgid "calc_me_select"
+msgstr "Valitse"
+
+msgid "calc_me_show_last"
+msgstr "Näytä edellinen lasku"
+
+msgid "calc_me_view"
+msgstr "Näytä"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

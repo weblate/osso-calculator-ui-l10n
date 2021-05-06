@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Kalkulator"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Kan ikke dele med null"
+
+msgid "calc_ap_input_illegal"
+msgstr "Ugyldige inndata"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Hurtigbuffer er allerede tømt"
+
+msgid "calc_ap_large_no_result"
+msgstr "Ingen utregning å vise"
+
+msgid "calc_ap_large_power"
+msgstr "Maksimal potens er 1000"
+
+msgid "calc_ap_memory"
+msgstr "Minne = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Minnet er tomt"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Ingenting å slette"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Bare tall kan limes inn"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Resultatet er for stort til å vises"
+
+msgid "calc_ap_square_neg"
+msgstr "Kan ikke beregne kvadratroten av et negativt tall"
+
+msgid "calc_ap_title_calculator"
+msgstr "Kalkulator"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "/"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Feil"
+
+msgid "calc_ib_only12"
+msgstr "Kan ikke lime inn mer enn 12 sifre"
+
+msgid "calc_ib_unable_copy"
+msgstr "Kan ikke kopiere"
+
+msgid "calc_ib_unable_paste"
+msgstr "Kan ikke lime inn"
+
+msgid "calc_ib_unable_select"
+msgstr "Kan ikke velge"
+
+msgid "calc_me_basic"
+msgstr "Grunnleggende"
+
+msgid "calc_me_calc_cont"
+msgstr "Utregningslinje"
+
+msgid "calc_me_clear_cache"
+msgstr "Tøm hurtigbuffer med siste utregning"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Tøm beregningslogg"
+
+msgid "calc_me_close"
+msgstr "Lukk"
+
+msgid "calc_me_copy"
+msgstr "Kopier"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Legg til i minne (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Tøm minne"
+
+msgid "calc_me_dmem_recall"
+msgstr "Hent fra minne (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Lagre i minne (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Trekk fra minne (M-)"
+
+msgid "calc_me_edit"
+msgstr "Rediger"
+
+msgid "calc_me_help"
+msgstr "Hjelp"
+
+msgid "calc_me_memory"
+msgstr "Minne"
+
+msgid "calc_me_paste"
+msgstr "Lim inn"
+
+msgid "calc_me_roll_cont"
+msgstr "Beregningslogginnhold"
+
+msgid "calc_me_scientific"
+msgstr "Vitenskapelig"
+
+msgid "calc_me_select"
+msgstr "Velg"
+
+msgid "calc_me_show_last"
+msgstr "Vis siste utregning"
+
+msgid "calc_me_view"
+msgstr "Vis"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

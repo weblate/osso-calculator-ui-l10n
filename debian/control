@@ -1,0 +1,119 @@
+Source: osso-calculator-ui-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-calculator-ui-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-calculator-ui-l10n-mr
+Depends: osso-calculator-ui-l10n-ruru, osso-calculator-ui-l10n-frfr, osso-calculator-ui-l10n-frca, osso-calculator-ui-l10n-dadk, osso-calculator-ui-l10n-itit, osso-calculator-ui-l10n-svse, osso-calculator-ui-l10n-nono, osso-calculator-ui-l10n-fifi, osso-calculator-ui-l10n-nlnl, osso-calculator-ui-l10n-enus, osso-calculator-ui-l10n-dede, osso-calculator-ui-l10n-esmx, osso-calculator-ui-l10n-eses, osso-calculator-ui-l10n-cscz, osso-calculator-ui-l10n-ptpt, osso-calculator-ui-l10n-engb, osso-calculator-ui-l10n-plpl
+Description: osso-calculator-ui marketing release package
+ This is a metapackage for osso-calculator-ui to pull all the l10n packages.
+ Application developers of osso-calculator-ui should depend on
+ "osso-calculator-ui-l10n-mr0 | osso-calculator-ui-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-calculator-ui-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (cs_CZ)
+ Language files for cs_CZ osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (da_DK)
+ Language files for da_DK osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (de_DE)
+ Language files for de_DE osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (en_GB)
+ Language files for en_GB osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (en_US)
+ Language files for en_US osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (es_ES)
+ Language files for es_ES osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (es_MX)
+ Language files for es_MX osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (fi_FI)
+ Language files for fi_FI osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (fr_CA)
+ Language files for fr_CA osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (fr_FR)
+ Language files for fr_FR osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (it_IT)
+ Language files for it_IT osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (nl_NL)
+ Language files for nl_NL osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (no_NO)
+ Language files for no_NO osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (pl_PL)
+ Language files for pl_PL osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (pt_PT)
+ Language files for pt_PT osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (ru_RU)
+ Language files for ru_RU osso-calculator-ui.
+
+Package: osso-calculator-ui-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-calculator-ui (sv_SE)
+ Language files for sv_SE osso-calculator-ui.

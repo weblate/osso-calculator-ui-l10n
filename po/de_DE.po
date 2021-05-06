@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Rechner"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Durch Null dividieren nicht möglich"
+
+msgid "calc_ap_input_illegal"
+msgstr "Unzulässige Eingabe"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Cache bereits geleert"
+
+msgid "calc_ap_large_no_result"
+msgstr "Kein Cache anzuzeigen"
+
+msgid "calc_ap_large_power"
+msgstr "Höchste Potenz ist 1000"
+
+msgid "calc_ap_memory"
+msgstr "Speicher = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Speicher ist leer"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Nichts zu löschen"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Es können nur Zahlen eingefügt werden."
+
+msgid "calc_ap_result_toolarge"
+msgstr "Ergebnis zu groß zum Anzeigen"
+
+msgid "calc_ap_square_neg"
+msgstr "Aus einer negativen Zahl kann keine Wurzel gezogen werden."
+
+msgid "calc_ap_title_calculator"
+msgstr "Rechner"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr ","
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Fehler"
+
+msgid "calc_ib_only12"
+msgstr "Es können nur maximal 12 Ziffern eingefügt werden"
+
+msgid "calc_ib_unable_copy"
+msgstr "Kopieren nicht möglich"
+
+msgid "calc_ib_unable_paste"
+msgstr "Einfügen nicht möglich"
+
+msgid "calc_ib_unable_select"
+msgstr "Auswählen nicht möglich"
+
+msgid "calc_me_basic"
+msgstr "Einfach"
+
+msgid "calc_me_calc_cont"
+msgstr "Rechnungszeile"
+
+msgid "calc_me_clear_cache"
+msgstr "Letzten Rechnungscache leeren"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Kassenrolle löschen"
+
+msgid "calc_me_close"
+msgstr "Schließen"
+
+msgid "calc_me_copy"
+msgstr "Kopieren"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Zum Speicherwert addieren (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Speicher löschen"
+
+msgid "calc_me_dmem_recall"
+msgstr "Speicherwert abrufen (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Speichern (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Vom Speicherwert subtrahieren (M-)"
+
+msgid "calc_me_edit"
+msgstr "Bearbeiten"
+
+msgid "calc_me_help"
+msgstr "Hilfe"
+
+msgid "calc_me_memory"
+msgstr "Speicher"
+
+msgid "calc_me_paste"
+msgstr "Einfügen"
+
+msgid "calc_me_roll_cont"
+msgstr "Kassenrolleninhalt"
+
+msgid "calc_me_scientific"
+msgstr "Wissenschaftl."
+
+msgid "calc_me_select"
+msgstr "Auswählen"
+
+msgid "calc_me_show_last"
+msgstr "Letzte Rechnung anzeigen"
+
+msgid "calc_me_view"
+msgstr "Ansicht"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

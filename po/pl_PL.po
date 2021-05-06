@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "calc_ap_calculator"
+msgstr "Kalkulator"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Nie można podzielić przez zero"
+
+msgid "calc_ap_input_illegal"
+msgstr "Niedozwolone dane"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Pamięć podręczna została już wyczyszczona"
+
+msgid "calc_ap_large_no_result"
+msgstr "Brak obliczeń do wyświetlenia"
+
+msgid "calc_ap_large_power"
+msgstr "Najwyższa wartość potęgi wynosi 1000"
+
+msgid "calc_ap_memory"
+msgstr "Pamięć = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Pamięć pusta"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Brak danych do usunięcia"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Można wklejać tylko cyfry"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Wiersz wyniku zbyt długi, aby wyświetlić"
+
+msgid "calc_ap_square_neg"
+msgstr "Nie można obliczyć pierwiastka kwadratowego z liczby ujemnej"
+
+msgid "calc_ap_title_calculator"
+msgstr "Kalkulator"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Błąd"
+
+msgid "calc_ib_only12"
+msgstr "Nie można wkleić więcej niż 12 cyfr"
+
+msgid "calc_ib_unable_copy"
+msgstr "Nie można skopiować"
+
+msgid "calc_ib_unable_paste"
+msgstr "Nie można wkleić"
+
+msgid "calc_ib_unable_select"
+msgstr "Nie można wybrać"
+
+msgid "calc_me_basic"
+msgstr "Podstawowy"
+
+msgid "calc_me_calc_cont"
+msgstr "Wiersz obliczeń"
+
+msgid "calc_me_clear_cache"
+msgstr "Wyczyść zapis ostatniego obliczenia"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Wyczyść rejestr obliczeń"
+
+msgid "calc_me_close"
+msgstr "Zamknij"
+
+msgid "calc_me_copy"
+msgstr "Kopiuj"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Dodaj do pamięci (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Wyczyść pamięć"
+
+msgid "calc_me_dmem_recall"
+msgstr "Przywróć z pamięci (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Zapisz w pamięci (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Odejmij z pamięci (M-)"
+
+msgid "calc_me_edit"
+msgstr "Edytuj"
+
+msgid "calc_me_help"
+msgstr "Pomoc"
+
+msgid "calc_me_memory"
+msgstr "Pamięć"
+
+msgid "calc_me_paste"
+msgstr "Wklej"
+
+msgid "calc_me_roll_cont"
+msgstr "Zawartość rejestru obliczeń"
+
+msgid "calc_me_scientific"
+msgstr "Naukowy"
+
+msgid "calc_me_select"
+msgstr "Wybierz"
+
+msgid "calc_me_show_last"
+msgstr "Wyświetl ostatnie obliczenie"
+
+msgid "calc_me_view"
+msgstr "Wyświetl"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

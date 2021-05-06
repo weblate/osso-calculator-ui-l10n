@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "calc_ap_calculator"
+msgstr "Kalkulačka"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Nelze dělit nulou"
+
+msgid "calc_ap_input_illegal"
+msgstr "Neplatný vstup"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Mezipaměť již vymazána"
+
+msgid "calc_ap_large_no_result"
+msgstr "Žádný výpočet pro zobrazení"
+
+msgid "calc_ap_large_power"
+msgstr "Maximální mocnina je 1000"
+
+msgid "calc_ap_memory"
+msgstr "Paměť = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Paměť je prázdná"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Nic pro vymazání"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Vkládat lze jen číslice"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Výsledek je pro zobrazení příliš velký"
+
+msgid "calc_ap_square_neg"
+msgstr "Nelze vypočítat druhou odmocninu záporného čísla"
+
+msgid "calc_ap_title_calculator"
+msgstr "Kalkulačka"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Chyba"
+
+msgid "calc_ib_only12"
+msgstr "Nelze vložit více než 12 číslic"
+
+msgid "calc_ib_unable_copy"
+msgstr "Nelze kopírovat"
+
+msgid "calc_ib_unable_paste"
+msgstr "Nelze vložit"
+
+msgid "calc_ib_unable_select"
+msgstr "Nelze vybrat"
+
+msgid "calc_me_basic"
+msgstr "Základní"
+
+msgid "calc_me_calc_cont"
+msgstr "Řádek pro výpočet"
+
+msgid "calc_me_clear_cache"
+msgstr "Vymazat mezipaměť posledního výpočtu"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Vymazat displej"
+
+msgid "calc_me_close"
+msgstr "Zavřít"
+
+msgid "calc_me_copy"
+msgstr "Kopírovat"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Přičíst do paměti (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Vymazat paměť"
+
+msgid "calc_me_dmem_recall"
+msgstr "Vyvolat z paměti (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Uložit do paměti (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Odečíst z paměti (M-)"
+
+msgid "calc_me_edit"
+msgstr "Upravit"
+
+msgid "calc_me_help"
+msgstr "Nápověda"
+
+msgid "calc_me_memory"
+msgstr "Paměť"
+
+msgid "calc_me_paste"
+msgstr "Vložit"
+
+msgid "calc_me_roll_cont"
+msgstr "Obsah displeje"
+
+msgid "calc_me_scientific"
+msgstr "Vědecká"
+
+msgid "calc_me_select"
+msgstr "Vybrat"
+
+msgid "calc_me_show_last"
+msgstr "Ukázat poslední výpočet"
+
+msgid "calc_me_view"
+msgstr "Zobrazit"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Calcolatrice"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Impossibile dividere per zero"
+
+msgid "calc_ap_input_illegal"
+msgstr "Inserimento non valido"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Cache già vuota"
+
+msgid "calc_ap_large_no_result"
+msgstr "Nessun calcolo da mostrare"
+
+msgid "calc_ap_large_power"
+msgstr "Potenza massima pari a 1000"
+
+msgid "calc_ap_memory"
+msgstr "Memoria = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Memoria vuota"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Nessun elemento da cancellare"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "È possibile incollare solo i numeri"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Il risultato è troppo grande per essere mostrato"
+
+msgid "calc_ap_square_neg"
+msgstr "Impossibile calcolare la radice quadrata di un numero negativo"
+
+msgid "calc_ap_title_calculator"
+msgstr "Calcolatrice"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Errore"
+
+msgid "calc_ib_only12"
+msgstr "Impossibile incollare più di 12 cifre"
+
+msgid "calc_ib_unable_copy"
+msgstr "Impossibile copiare"
+
+msgid "calc_ib_unable_paste"
+msgstr "Impossibile incollare"
+
+msgid "calc_ib_unable_select"
+msgstr "Impossibile selezionare"
+
+msgid "calc_me_basic"
+msgstr "Di base"
+
+msgid "calc_me_calc_cont"
+msgstr "Riga calcolo"
+
+msgid "calc_me_clear_cache"
+msgstr "Cancella cache ultimo calcolo"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Svuota l'area di calcolo"
+
+msgid "calc_me_close"
+msgstr "Chiudi"
+
+msgid "calc_me_copy"
+msgstr "Copia"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Aggiungi a memoria (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Cancella memoria"
+
+msgid "calc_me_dmem_recall"
+msgstr "Richiama da memoria (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Salva in memoria (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Sottrai da memoria (M-)"
+
+msgid "calc_me_edit"
+msgstr "Modifica"
+
+msgid "calc_me_help"
+msgstr "Guida"
+
+msgid "calc_me_memory"
+msgstr "Memoria"
+
+msgid "calc_me_paste"
+msgstr "Incolla"
+
+msgid "calc_me_roll_cont"
+msgstr "Contenuto area calcolo"
+
+msgid "calc_me_scientific"
+msgstr "Scientifica"
+
+msgid "calc_me_select"
+msgstr "Seleziona"
+
+msgid "calc_me_show_last"
+msgstr "Mostra l'ultimo calcolo"
+
+msgid "calc_me_view"
+msgstr "Visualizza"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"

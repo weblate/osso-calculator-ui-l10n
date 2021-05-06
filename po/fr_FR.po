@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2009.06.22 13:01+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Calculatrice"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Division par zéro impossible"
+
+msgid "calc_ap_input_illegal"
+msgstr "Saisie non valide"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Cache déjà effacé"
+
+msgid "calc_ap_large_no_result"
+msgstr "Aucun calcul à afficher"
+
+msgid "calc_ap_large_power"
+msgstr "Puissance maximale : 1 000"
+
+msgid "calc_ap_memory"
+msgstr "Mémoire = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Mémoire vide"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Rien à effacer"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Seuls les chiffres peuvent être collés"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Résultat trop grand pour être affiché"
+
+msgid "calc_ap_square_neg"
+msgstr "Impossible de calculer la racine carrée d'une valeur négative"
+
+msgid "calc_ap_title_calculator"
+msgstr "Calculatrice"
+
+msgid "calc_bv_desk_ac"
+msgstr "CE"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr ","
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Erreur"
+
+msgid "calc_ib_only12"
+msgstr "Impossible de coller plus de 12 chiffres"
+
+msgid "calc_ib_unable_copy"
+msgstr "Impossible de copier"
+
+msgid "calc_ib_unable_paste"
+msgstr "Impossible de coller"
+
+msgid "calc_ib_unable_select"
+msgstr "Impossible de sélectionner"
+
+msgid "calc_me_basic"
+msgstr "Basique"
+
+msgid "calc_me_calc_cont"
+msgstr "Ligne de calcul"
+
+msgid "calc_me_clear_cache"
+msgstr "Vider le cache du dernier calcul"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Effacer vue détaillée"
+
+msgid "calc_me_close"
+msgstr "Fermer"
+
+msgid "calc_me_copy"
+msgstr "Copier"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Ajouter à la mémoire (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Effacer la mémoire"
+
+msgid "calc_me_dmem_recall"
+msgstr "Utiliser la valeur en mémoire (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Enregistrer dans la mémoire (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Retirer de la mémoire (M-)"
+
+msgid "calc_me_edit"
+msgstr "Édition"
+
+msgid "calc_me_help"
+msgstr "Aide"
+
+msgid "calc_me_memory"
+msgstr "Mémoire"
+
+msgid "calc_me_paste"
+msgstr "Coller"
+
+msgid "calc_me_roll_cont"
+msgstr "Contenu de la vue détaillée"
+
+msgid "calc_me_scientific"
+msgstr "Scientifique"
+
+msgid "calc_me_select"
+msgstr "Sélectionner"
+
+msgid "calc_me_show_last"
+msgstr "Afficher le dernier calcul"
+
+msgid "calc_me_view"
+msgstr "Affichage"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"
