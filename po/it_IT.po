@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: osso-calculator-ui 20090622130111\n"
-"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.06.22 13:01+0300\n"
 "PO-Revision-Date: 2009.06.22 13:01+0300\n"
 "Last-Translator:\n"
