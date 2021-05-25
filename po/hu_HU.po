@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-02-03 19:02+0100\n"
+"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Számológép"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Nullával nem lehet osztani"
+
+msgid "calc_ap_input_illegal"
+msgstr "Érvénytelen bevitel"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Gyorsítótár már törölve"
+
+msgid "calc_ap_large_no_result"
+msgstr "Nincs megjeleníthető számítás"
+
+msgid "calc_ap_large_power"
+msgstr "Maximum hatvány 1000"
+
+msgid "calc_ap_memory"
+msgstr "Memória = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Memória üres"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Nincs mit törölni"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Csak számok illeszthetőek be"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Az eredmény túl nagy a megjelenítéshez"
+
+msgid "calc_ap_square_neg"
+msgstr "Negatív szám négyzetgyöke nincs értelmezve"
+
+msgid "calc_ap_title_calculator"
+msgstr "Számológép"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Hiba"
+
+msgid "calc_ib_only12"
+msgstr "Nem lehet beilleszteni több mint 12 számjegyet"
+
+msgid "calc_ib_unable_copy"
+msgstr "Nem lehet másolni"
+
+msgid "calc_ib_unable_paste"
+msgstr "Nem lehet beilleszteni"
+
+msgid "calc_ib_unable_select"
+msgstr "Nem lehet kiválasztani"
+
+msgid "calc_me_basic"
+msgstr "Alap"
+
+msgid "calc_me_calc_cont"
+msgstr "Számítási vonal"
+
+msgid "calc_me_clear_cache"
+msgstr "Törli az utolsó számítási gyorsítótárat"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Számítási terület törlése"
+
+msgid "calc_me_close"
+msgstr "Bezár"
+
+msgid "calc_me_copy"
+msgstr "Másol"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Hozzáadás a memóriához (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Memória törlése"
+
+msgid "calc_me_dmem_recall"
+msgstr "Előhívas memóriából (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Mentés memóriába (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Levonás memóriából (M-)"
+
+msgid "calc_me_edit"
+msgstr "Szerkesztés"
+
+msgid "calc_me_help"
+msgstr "Segítség"
+
+msgid "calc_me_memory"
+msgstr "Memória"
+
+msgid "calc_me_paste"
+msgstr "Beilleszt"
+
+msgid "calc_me_roll_cont"
+msgstr "Számítási terület tartalma"
+
+msgid "calc_me_scientific"
+msgstr "Tudományos"
+
+msgid "calc_me_select"
+msgstr "Kiválaszt"
+
+msgid "calc_me_show_last"
+msgstr "Utolsó számítás mutatása"
+
+msgid "calc_me_view"
+msgstr "Nézet"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"
+
