@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-05-29 20:58+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "Hesap makinesi"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Sıfıra bölünemiyor"
+
+msgid "calc_ap_input_illegal"
+msgstr "Geçersiz girdi"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Önbellek zaten temizlendi"
+
+msgid "calc_ap_large_no_result"
+msgstr "Gösterilecek hesap yok"
+
+msgid "calc_ap_large_power"
+msgstr "Maksimum üssü 1000"
+
+msgid "calc_ap_memory"
+msgstr "Bellek = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Bellek temiz"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Temizlenecek bir şey yok"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Sadece sayılar yapıştırılabilir"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Sonuç gösterilemeyecek kadar uzun"
+
+msgid "calc_ap_square_neg"
+msgstr "Negatif bir sayının kare kökü hesaplanamıyor"
+
+msgid "calc_ap_title_calculator"
+msgstr "Hesap makinesi"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Hata"
+
+msgid "calc_ib_only12"
+msgstr "12 haneden fazlası yapıştırılamıyor"
+
+msgid "calc_ib_unable_copy"
+msgstr "Kopyalanamıyor"
+
+msgid "calc_ib_unable_paste"
+msgstr "Yapıştırılamıyor"
+
+msgid "calc_ib_unable_select"
+msgstr "Seçilemiyor"
+
+msgid "calc_me_basic"
+msgstr "Basit"
+
+msgid "calc_me_calc_cont"
+msgstr "Hesap sırası"
+
+msgid "calc_me_clear_cache"
+msgstr "Son hesaplama önbelleğini temizle"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Ekranı temizle"
+
+msgid "calc_me_close"
+msgstr "Kapat"
+
+msgid "calc_me_copy"
+msgstr "Kopyala"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Belleğe ekle (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Belleği temizle"
+
+msgid "calc_me_dmem_recall"
+msgstr "Bellekten anımsa (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Belleğe kaydet (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Bellekten çıkart (M-)"
+
+msgid "calc_me_edit"
+msgstr "Düzenle"
+
+msgid "calc_me_help"
+msgstr "Yardım"
+
+msgid "calc_me_memory"
+msgstr "Bellek"
+
+msgid "calc_me_paste"
+msgstr "Yapıştır"
+
+msgid "calc_me_roll_cont"
+msgstr "Till roll content"
+
+msgid "calc_me_scientific"
+msgstr "Bilimsel"
+
+msgid "calc_me_select"
+msgstr "Seç"
+
+msgid "calc_me_show_last"
+msgstr "Son hesaplamayı göster"
+
+msgid "calc_me_view"
+msgstr "Göster"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"
