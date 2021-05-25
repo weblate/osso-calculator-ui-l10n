@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-calculator-ui 20090622130111\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-04-21 22:52+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "calc_ap_calculator"
+msgstr "الآلة الحاسبة"
+
+msgid "calc_ap_divide_byzero"
+msgstr "غير قابل للقسمة على الصفر"
+
+msgid "calc_ap_input_illegal"
+msgstr "أدخالات خاطئ"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "تم مسح ذاكرة التخزين المؤقته"
+
+msgid "calc_ap_large_no_result"
+msgstr "لايوجد حسابات لأظهارها"
+
+msgid "calc_ap_large_power"
+msgstr "الطاقة العظمي 1000"
+
+msgid "calc_ap_memory"
+msgstr "الذاكرة = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "الذاكرة خالية"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "لايوجد شيئ لمسحة"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "فقط الأرقام يتم لصقها"
+
+msgid "calc_ap_result_toolarge"
+msgstr "النتيجة كبيره لايمكن عرضها"
+
+msgid "calc_ap_square_neg"
+msgstr "غير قادر على حساب الجزر التربيعي لرقم سالب"
+
+msgid "calc_ap_title_calculator"
+msgstr "الآلة الحاسبة"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "خطأ"
+
+msgid "calc_ib_only12"
+msgstr "غير قادر على لصق أكثر من 12 رقم"
+
+msgid "calc_ib_unable_copy"
+msgstr "غير قادر على النسخ"
+
+msgid "calc_ib_unable_paste"
+msgstr "غير قادر على اللصق"
+
+msgid "calc_ib_unable_select"
+msgstr "غير قادر على التحديد"
+
+msgid "calc_me_basic"
+msgstr "أساسية"
+
+msgid "calc_me_calc_cont"
+msgstr "حساب الخط"
+
+msgid "calc_me_clear_cache"
+msgstr "مسح آخر الحسابات"
+
+msgid "calc_me_clear_till_roll"
+msgstr "مسح آخر التسجيلات المضافة"
+
+msgid "calc_me_close"
+msgstr "إغلاق"
+
+msgid "calc_me_copy"
+msgstr "نسخ"
+
+msgid "calc_me_dmem_add_to"
+msgstr "جمع من الذاكرة الذاكرة (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "مسح الذاكرة"
+
+msgid "calc_me_dmem_recall"
+msgstr "إعادة من الذاكرة (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "حفظ في الذاكرة (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "طرح من الذاكرة (M-)"
+
+msgid "calc_me_edit"
+msgstr "تحرير"
+
+msgid "calc_me_help"
+msgstr "مساعدة"
+
+msgid "calc_me_memory"
+msgstr "الذاكرة"
+
+msgid "calc_me_paste"
+msgstr "لصق"
+
+msgid "calc_me_roll_cont"
+msgstr "إضافة القيم الحسابية"
+
+msgid "calc_me_scientific"
+msgstr "علمية"
+
+msgid "calc_me_select"
+msgstr "تحديد"
+
+msgid "calc_me_show_last"
+msgstr "أظهار آخر عملية حسابية"
+
+msgid "calc_me_view"
+msgstr "مشاهدة"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"
+
