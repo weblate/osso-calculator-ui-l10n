@@ -1,0 +1,192 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-11-30 11:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "calc_ap_calculator"
+msgstr "计算器"
+
+msgid "calc_ap_divide_byzero"
+msgstr "除数不能为零"
+
+msgid "calc_ap_input_illegal"
+msgstr "非法输入"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "缓存已清空"
+
+msgid "calc_ap_large_no_result"
+msgstr "没有结果"
+
+msgid "calc_ap_large_power"
+msgstr "最大乘幕为1000"
+
+msgid "calc_ap_memory"
+msgstr "内存 = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "内存为空"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "无法清空"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "只允许粘贴数字"
+
+msgid "calc_ap_result_toolarge"
+msgstr "结果太大无法显示"
+
+msgid "calc_ap_square_neg"
+msgstr "无法计算平方根负数"
+
+msgid "calc_ap_title_calculator"
+msgstr "计算器"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "错误"
+
+msgid "calc_ib_only12"
+msgstr "无法粘贴超过12位的数字"
+
+msgid "calc_ib_unable_copy"
+msgstr "无法复制"
+
+msgid "calc_ib_unable_paste"
+msgstr "无法粘贴"
+
+msgid "calc_ib_unable_select"
+msgstr "无法选择"
+
+msgid "calc_me_basic"
+msgstr "基本"
+
+msgid "calc_me_calc_cont"
+msgstr "输入框"
+
+msgid "calc_me_clear_cache"
+msgstr "清空最后结果缓存"
+
+msgid "calc_me_clear_till_roll"
+msgstr "清空计算结果窗口"
+
+msgid "calc_me_close"
+msgstr "关闭"
+
+msgid "calc_me_copy"
+msgstr "复制"
+
+msgid "calc_me_dmem_add_to"
+msgstr "添加到内存 (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "清空内存"
+
+msgid "calc_me_dmem_recall"
+msgstr "从内存中提取 (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "保存到内存 (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "从内存中删除 (M-)"
+
+msgid "calc_me_edit"
+msgstr "编辑"
+
+msgid "calc_me_help"
+msgstr "帮助"
+
+msgid "calc_me_memory"
+msgstr "内存"
+
+msgid "calc_me_paste"
+msgstr "粘贴"
+
+msgid "calc_me_roll_cont"
+msgstr "计算结果窗口内容"
+
+msgid "calc_me_scientific"
+msgstr "科学型"
+
+msgid "calc_me_select"
+msgstr "选择"
+
+msgid "calc_me_show_last"
+msgstr "显示最后结果"
+
+msgid "calc_me_view"
+msgstr "查看"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"
