@@ -1,0 +1,192 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-11-30 11:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2)\n"
+
+msgid "calc_ap_calculator"
+msgstr "Calculator"
+
+msgid "calc_ap_divide_byzero"
+msgstr "Unable to divide by zero"
+
+msgid "calc_ap_input_illegal"
+msgstr "Illegal input"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Cache already cleared"
+
+msgid "calc_ap_large_no_result"
+msgstr "No calculation to show"
+
+msgid "calc_ap_large_power"
+msgstr "Maximum power is 1000"
+
+msgid "calc_ap_memory"
+msgstr "Memory = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Memory empty"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Nothing to clear"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Only numbers can be pasted"
+
+msgid "calc_ap_result_toolarge"
+msgstr "Result too large to display"
+
+msgid "calc_ap_square_neg"
+msgstr "Unable to calculate the square root of a negative number"
+
+msgid "calc_ap_title_calculator"
+msgstr "Calculator"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Error"
+
+msgid "calc_ib_only12"
+msgstr "Unable to paste more than 12 digits"
+
+msgid "calc_ib_unable_copy"
+msgstr "Unable to copy"
+
+msgid "calc_ib_unable_paste"
+msgstr "Unable to paste"
+
+msgid "calc_ib_unable_select"
+msgstr "Unable to select"
+
+msgid "calc_me_basic"
+msgstr "Basic"
+
+msgid "calc_me_calc_cont"
+msgstr "Calculation line"
+
+msgid "calc_me_clear_cache"
+msgstr "Clear last calculation cache"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Clear adding machine tape"
+
+msgid "calc_me_close"
+msgstr "Close"
+
+msgid "calc_me_copy"
+msgstr "Copy"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Add to memory (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Clear memory"
+
+msgid "calc_me_dmem_recall"
+msgstr "Recall from memory (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Save to memory (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Subtract from memory (M-)"
+
+msgid "calc_me_edit"
+msgstr "Edit"
+
+msgid "calc_me_help"
+msgstr "Help"
+
+msgid "calc_me_memory"
+msgstr "Memory"
+
+msgid "calc_me_paste"
+msgstr "Paste"
+
+msgid "calc_me_roll_cont"
+msgstr "Adding machine tape content"
+
+msgid "calc_me_scientific"
+msgstr "Scientific"
+
+msgid "calc_me_select"
+msgstr "Select"
+
+msgid "calc_me_show_last"
+msgstr "Show last calculation"
+
+msgid "calc_me_view"
+msgstr "View"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"
