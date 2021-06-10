@@ -1,0 +1,192 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.06.22 13:01+0300\n"
+"PO-Revision-Date: 2010-11-30 11:38+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "calc_ap_calculator"
+msgstr "Calculadora"
+
+msgid "calc_ap_divide_byzero"
+msgstr "No es pot dividir per zero"
+
+msgid "calc_ap_input_illegal"
+msgstr "Entrada incorrecta"
+
+msgid "calc_ap_large_cache_clear"
+msgstr "Memòria cau ja netejada"
+
+msgid "calc_ap_large_no_result"
+msgstr "No hi ha càlculs per mostrar"
+
+msgid "calc_ap_large_power"
+msgstr "La màxima potència es 1000"
+
+msgid "calc_ap_memory"
+msgstr "Memòria = %s"
+
+msgid "calc_ap_memory_empty"
+msgstr "Memòria buida"
+
+msgid "calc_ap_nothing_to_clear"
+msgstr "Res per netejar"
+
+msgid "calc_ap_paste_onlynumber"
+msgstr "Només es poden enganxar nombres"
+
+msgid "calc_ap_result_toolarge"
+msgstr "El resultat és massa gran i no es pot mostrar"
+
+msgid "calc_ap_square_neg"
+msgstr "No es pot calcular l'arrel quadrada d'un nombre negatiu"
+
+msgid "calc_ap_title_calculator"
+msgstr "Calculadora"
+
+msgid "calc_bv_desk_ac"
+msgstr "AC"
+
+msgid "calc_bv_desk_c"
+msgstr "C"
+
+msgid "calc_bv_tr_add"
+msgstr "+"
+
+msgid "calc_bv_tr_closebracket"
+msgstr ")"
+
+msgid "calc_bv_tr_decimal"
+msgstr "."
+
+msgid "calc_bv_tr_divide"
+msgstr "÷"
+
+msgid "calc_bv_tr_equals"
+msgstr "="
+
+msgid "calc_bv_tr_min"
+msgstr "MS"
+
+msgid "calc_bv_tr_mminus"
+msgstr "M−"
+
+msgid "calc_bv_tr_mplus"
+msgstr "M+"
+
+msgid "calc_bv_tr_mr"
+msgstr "MR"
+
+msgid "calc_bv_tr_multiply"
+msgstr "*"
+
+msgid "calc_bv_tr_openbracket"
+msgstr "("
+
+msgid "calc_bv_tr_percent"
+msgstr "%%"
+
+msgid "calc_bv_tr_powerof"
+msgstr "x^y"
+
+msgid "calc_bv_tr_reciprocal"
+msgstr "1/x"
+
+msgid "calc_bv_tr_sqroot"
+msgstr "√"
+
+msgid "calc_bv_tr_subtract"
+msgstr "−"
+
+msgid "calc_bv_tr_unaryminus"
+msgstr "+/−"
+
+msgid "calc_gi_e"
+msgstr "Error"
+
+msgid "calc_ib_only12"
+msgstr "No es poden enganxar més de 12 dígits"
+
+msgid "calc_ib_unable_copy"
+msgstr "No es pot copiar"
+
+msgid "calc_ib_unable_paste"
+msgstr "No es pot enganxar"
+
+msgid "calc_ib_unable_select"
+msgstr "No es pot sseleccionar"
+
+msgid "calc_me_basic"
+msgstr "Bàsic"
+
+msgid "calc_me_calc_cont"
+msgstr "Línia de càlcul"
+
+msgid "calc_me_clear_cache"
+msgstr "Neteja l'últim càlcul de la memòria"
+
+msgid "calc_me_clear_till_roll"
+msgstr "Neteja la cinta de sumar"
+
+msgid "calc_me_close"
+msgstr "Tanca"
+
+msgid "calc_me_copy"
+msgstr "Copia"
+
+msgid "calc_me_dmem_add_to"
+msgstr "Afegeix a la memòria (M+)"
+
+msgid "calc_me_dmem_clear"
+msgstr "Neteja la memòria"
+
+msgid "calc_me_dmem_recall"
+msgstr "Porta de la memòria (MR)"
+
+msgid "calc_me_dmem_save_in"
+msgstr "Desa a la memòria (MS)"
+
+msgid "calc_me_dmem_subtract_from"
+msgstr "Resta de la memòria (M-)"
+
+msgid "calc_me_edit"
+msgstr "Edita"
+
+msgid "calc_me_help"
+msgstr "Ajuda"
+
+msgid "calc_me_memory"
+msgstr "Memòria"
+
+msgid "calc_me_paste"
+msgstr "Enganxa"
+
+msgid "calc_me_roll_cont"
+msgstr "S'afegeix contingut a la cinta de sumar"
+
+msgid "calc_me_scientific"
+msgstr "Científica"
+
+msgid "calc_me_select"
+msgstr "Selecciona"
+
+msgid "calc_me_show_last"
+msgstr "Mostra l'últim càlcul"
+
+msgid "calc_me_view"
+msgstr "Visualitza"
+
+msgid "calc_va_format_tr_percentage_format"
+msgstr "_%%"
+
+msgid "calc_va_memory"
+msgstr "M"
