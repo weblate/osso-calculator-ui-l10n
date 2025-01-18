@@ -3,188 +3,190 @@ msgstr ""
 "Project-Id-Version: osso-calculator-ui 20090622130111\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.06.22 13:01+0300\n"
-"PO-Revision-Date: 2009.06.22 13:01+0300\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 18:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-calculator-ui-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "calc_ap_calculator"
-msgstr ""
+msgstr "கணிப்பான்"
 
 msgid "calc_ap_divide_byzero"
-msgstr ""
+msgstr "பூச்சியத்தால் பிரிக்க முடியவில்லை"
 
 msgid "calc_ap_input_illegal"
-msgstr ""
+msgstr "சட்டவிரோத உள்ளீடு"
 
 msgid "calc_ap_large_cache_clear"
-msgstr ""
+msgstr "கேச் ஏற்கனவே அழிக்கப்பட்டது"
 
 msgid "calc_ap_large_no_result"
-msgstr ""
+msgstr "காட்ட கணக்கீடு இல்லை"
 
 msgid "calc_ap_large_power"
-msgstr ""
+msgstr "அதிகபட்ச ஆற்றல் 1000"
 
 msgid "calc_ap_memory"
-msgstr ""
+msgstr "நினைவகம் = %s"
 
 msgid "calc_ap_memory_empty"
-msgstr ""
+msgstr "நினைவகம் காலியாக உள்ளது"
 
 msgid "calc_ap_nothing_to_clear"
-msgstr ""
+msgstr "அழிக்க எதுவும் இல்லை"
 
 msgid "calc_ap_paste_onlynumber"
-msgstr ""
+msgstr "எண்களை மட்டுமே ஒட்ட முடியும்"
 
 msgid "calc_ap_result_toolarge"
-msgstr ""
+msgstr "காண்பிக்க மிகப் பெரியது"
 
 msgid "calc_ap_square_neg"
-msgstr ""
+msgstr "எதிர்மறை எண்ணின் சதுர மூலத்தை கணக்கிட முடியவில்லை"
 
 msgid "calc_ap_title_calculator"
-msgstr ""
+msgstr "கணிப்பான்"
 
 msgid "calc_bv_desk_ac"
-msgstr ""
+msgstr "ஏ.சி."
 
 msgid "calc_bv_desk_c"
-msgstr ""
+msgstr "C"
 
 msgid "calc_bv_tr_add"
-msgstr ""
+msgstr "+"
 
 msgid "calc_bv_tr_closebracket"
-msgstr ""
+msgstr ")"
 
 msgid "calc_bv_tr_decimal"
-msgstr ""
+msgstr "."
 
 msgid "calc_bv_tr_divide"
-msgstr ""
+msgstr "÷"
 
 msgid "calc_bv_tr_equals"
-msgstr ""
+msgstr "="
 
 msgid "calc_bv_tr_min"
-msgstr ""
+msgstr "எம்.எச்"
 
 msgid "calc_bv_tr_mminus"
-msgstr ""
+msgstr "M−"
 
 msgid "calc_bv_tr_mplus"
-msgstr ""
+msgstr "மீ+"
 
 msgid "calc_bv_tr_mr"
-msgstr ""
+msgstr "திரு"
 
 msgid "calc_bv_tr_multiply"
-msgstr ""
+msgstr "*"
 
 msgid "calc_bv_tr_openbracket"
-msgstr ""
+msgstr "(("
 
 msgid "calc_bv_tr_percent"
-msgstr ""
+msgstr "%%"
 
 msgid "calc_bv_tr_powerof"
-msgstr ""
+msgstr "x^y"
 
 msgid "calc_bv_tr_reciprocal"
-msgstr ""
+msgstr "1/x"
 
 msgid "calc_bv_tr_sqroot"
-msgstr ""
+msgstr "√"
 
 msgid "calc_bv_tr_subtract"
-msgstr ""
+msgstr "-"
 
 msgid "calc_bv_tr_unaryminus"
-msgstr ""
+msgstr "+/−"
 
 msgid "calc_gi_e"
-msgstr ""
+msgstr "பிழை"
 
 msgid "calc_ib_only12"
-msgstr ""
+msgstr "12 இலக்கங்களுக்கு மேல் ஒட்ட முடியவில்லை"
 
 msgid "calc_ib_unable_copy"
-msgstr ""
+msgstr "நகலெடுக்க முடியவில்லை"
 
 msgid "calc_ib_unable_paste"
-msgstr ""
+msgstr "ஒட்ட முடியவில்லை"
 
 msgid "calc_ib_unable_select"
-msgstr ""
+msgstr "தேர்ந்தெடுக்க முடியவில்லை"
 
 msgid "calc_me_basic"
-msgstr ""
+msgstr "அடிப்படை"
 
 msgid "calc_me_calc_cont"
-msgstr ""
+msgstr "கணக்கீட்டு வரி"
 
 msgid "calc_me_clear_cache"
-msgstr ""
+msgstr "கடைசி கணக்கீட்டு தற்காலிக சேமிப்பை அழிக்கவும்"
 
 msgid "calc_me_clear_till_roll"
-msgstr ""
+msgstr "ரோல் வரை அழிக்கவும்"
 
 msgid "calc_me_close"
-msgstr ""
+msgstr "மூடு"
 
 msgid "calc_me_copy"
-msgstr ""
+msgstr "நகலெடு"
 
 msgid "calc_me_dmem_add_to"
-msgstr ""
+msgstr "நினைவகத்தில் சேர்க்கவும் (M+)"
 
 msgid "calc_me_dmem_clear"
-msgstr ""
+msgstr "நினைவகத்தை அழிக்கவும்"
 
 msgid "calc_me_dmem_recall"
-msgstr ""
+msgstr "நினைவகத்திலிருந்து நினைவுகூருங்கள் (எம்.ஆர்)"
 
 msgid "calc_me_dmem_save_in"
-msgstr ""
+msgstr "நினைவகத்தை சேமிக்கவும் (எம்.எச்)"
 
 msgid "calc_me_dmem_subtract_from"
-msgstr ""
+msgstr "நினைவகத்திலிருந்து கழிக்கவும் (எம்-)"
 
 msgid "calc_me_edit"
-msgstr ""
+msgstr "தொகு"
 
 msgid "calc_me_help"
-msgstr ""
+msgstr "உதவி"
 
 msgid "calc_me_memory"
-msgstr ""
+msgstr "நினைவகம்"
 
 msgid "calc_me_paste"
-msgstr ""
+msgstr "ஒட்டு"
 
 msgid "calc_me_roll_cont"
-msgstr ""
+msgstr "ரோல் உள்ளடக்கம் வரை"
 
 msgid "calc_me_scientific"
-msgstr ""
+msgstr "அறிவியல்"
 
 msgid "calc_me_select"
-msgstr ""
+msgstr "தேர்ந்தெடு"
 
 msgid "calc_me_show_last"
-msgstr ""
+msgstr "கடைசி கணக்கீட்டைக் காட்டு"
 
 msgid "calc_me_view"
-msgstr ""
+msgstr "பார்வை"
 
 msgid "calc_va_format_tr_percentage_format"
-msgstr ""
+msgstr "_ %%"
 
 msgid "calc_va_memory"
-msgstr ""
+msgstr "மீ"
